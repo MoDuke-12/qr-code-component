@@ -13,14 +13,16 @@ body {
   font-size: 15px;
   display: flex;
   justify-content: center;
-  margin: 6rem;
+  aling-items:center;
+  padding:2rem;
+  min-height:100vh;
 
 }
 
 .container {
   background-color: var(--white-color);
   max-width: 400px;
-  height: 630px;
+  
   padding: 2rem 1rem;
   display: flex;
   flex-direction: column;
